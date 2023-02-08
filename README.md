@@ -2,7 +2,7 @@
 
 The starting point of the `client` code for Catstronauts App.
 
-You can [preview the completed app here](https://lift-off-client-demo.netlify.app/).
+You can [preview the completed app here](https://catstronauts-frontend-production.up.railway.app/).
 
 You can [find the server counterpart here](https://github.com/DevashishSuthar/Catstronauts-Backend).
 
